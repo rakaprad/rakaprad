@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Raka+Pradipta+%F0%9F%91%8B;Senior+DevOps+Engineer+%C2%B7+Dubai;AWS+%C2%B7+Kubernetes+%C2%B7+Terraform+%C2%B7+CI%2FCD;Automating+the+boring+parts" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Raka+Pradipta+%F0%9F%91%8B;DevOps+%26+Cloud+Engineer+%C2%B7+Dubai;Growing+into+software+%26+security;AWS+%C2%B7+Kubernetes+%C2%B7+Terraform+%C2%B7+Go" alt="Typing intro" />
 
 <p>
   <a href="https://rakaprad.github.io"><img src="https://img.shields.io/badge/Portfolio-rakaprad.github.io-22D3EE?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
@@ -17,10 +17,11 @@ metadata:
   name: raka-pradipta
   location: Dubai, UAE
 spec:
-  role: Senior DevOps Engineer
-  focus: [aws, kubernetes, ci-cd, infrastructure-as-code, observability, devsecops]
+  role: Senior DevOps & Cloud Engineer
+  strengths: [devops, cloud-engineering, aws, kubernetes, ci-cd, infrastructure-as-code]
+  growing_into: [software-development, security]
   experience: ~5y DevOps & cloud, 9+y in IT
-  currently_learning: [platform engineering, supply-chain security, AI for ops]
+  currently_learning: [go, typescript, application-security, supply-chain-security]
 status:
   phase: Running
   message: "Automating the boring parts and keeping production calm."
